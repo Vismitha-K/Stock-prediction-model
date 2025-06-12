@@ -50,9 +50,9 @@ To predict stock prices for upcoming days using historical data and present thos
    ```bash
    pip install -r requirements.txt
 4. Run the Streamlit app:
-  ```bash
-  streamlit run app.py
-  ```
+      ```bash
+     streamlit run app.py
+     ```
 5. The app will open in your browser. Enter a stock symbol (like AAPL or TSLA) to begin.
 
 ---
